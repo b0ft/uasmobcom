@@ -5,7 +5,7 @@
 
 ## Not(e) Found
 
-Not(e) Found merupakan sebuah aplikasi Android Studio yang dikembangkan dengan Kotlin, dirancang untuk menyimpan catatan. Setiap catatan memiliki tiga kolom data yang dapat diisi, termasuk nama barang, kuantitas, dan deskripsi barang. Sebagai contoh, ketika kita berencana untuk berbelanja di luar, aplikasi ini dapat digunakan untuk memastikan bahwa kita tidak melupakan barang yang dibutuhkan.
+Not(e) Found merupakan sebuah aplikasi mobile yang dikembangkan menggunakan Kotlin dan dirancang untuk menyimpan catatan. Setiap catatan memiliki tiga kolom data yang dapat diisi, termasuk nama barang, kuantitas, dan deskripsi barang. Sebagai contoh, ketika kita berencana untuk berbelanja di luar, aplikasi ini dapat digunakan untuk memastikan bahwa kita tidak melupakan barang yang dibutuhkan.
 
 Berikut ini adalah video demo aplikasi: https://youtu.be/rGXBstUcZyo
 
