@@ -5,9 +5,10 @@
 
 ## Not(e) Found
 
-Not(e) Found merupakan sebuah aplikasi mobile yang dikembangkan menggunakan Kotlin dan dirancang untuk menyimpan catatan. Setiap catatan memiliki tiga kolom data yang dapat diisi, termasuk nama barang, kuantitas, dan deskripsi barang. Sebagai contoh, ketika kita berencana untuk berbelanja di luar, aplikasi ini dapat digunakan untuk memastikan bahwa kita tidak melupakan barang yang dibutuhkan.
+Not(e) Found merupakan sebuah aplikasi mobile yang dikembangkan menggunakan Kotlin dan dirancang untuk menyimpan catatan. Setiap catatan memiliki tiga kolom data yang dapat diisi, termasuk nama barang, kuantitas, dan deskripsi barang. Sebagai contoh, ketika kita berencana untuk berbelanja di luar, aplikasi ini dapat digunakan untuk memastikan bahwa kita tidak melupakan barang yang dibutuhkan. Dokumentasi lebih lanjut mengenai latar belakang dan penjelasan fitur secara lengkap ada [di sini](docs/UAS%20Mobcom%20Dokumentasi%20-%20Aldy%20Syachranie%20-%201313621012.pdf).
 
-Berikut ini adalah video demo aplikasi: https://youtu.be/rGXBstUcZyo
+Berikut ini adalah video demo aplikasi [di sini](https://youtu.be/rGXBstUcZyo).
+
 
 Screenshot:
 
